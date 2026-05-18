@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+
+# Build files
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+
+# Temporary files
+*.log
+*.tmp
